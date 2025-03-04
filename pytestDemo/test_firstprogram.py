@@ -6,7 +6,7 @@
 #for detailed info run "py.test -v"
 #for console logs run "py.test -v -s"
 #to run all function related to credit card, lets say we named it commonly "CreditCard" then run "py.test -k CreditCard -v -s"
-
+#to run specific file "py.test filename"
 def test_firstprogram():
     print("hello")
 
